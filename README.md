@@ -1,9 +1,9 @@
 # Kubernetes on boshlite
 ## Prepare Environment
-VirtualBox  https://www.virtualbox.org/wiki/Downloads
-BOSH CLI  https://bosh.io/docs/cli-v2.html#install
-CredHub CLI https://github.com/cloudfoundry-incubator/credhub-cli#installing-the-cli
-Kubernetes CLI https://kubernetes.io/docs/tasks/tools/install-kubectl/
+VirtualBox  https://www.virtualbox.org/wiki/Downloads  
+BOSH CLI  https://bosh.io/docs/cli-v2.html#install  
+CredHub CLI https://github.com/cloudfoundry-incubator/credhub-cli#installing-the-cli  
+Kubernetes CLI https://kubernetes.io/docs/tasks/tools/install-kubectl/  
 
 
 ## Update bosh-lite (use credhub and uaa)
